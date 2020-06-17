@@ -1,6 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import test from './test.json';
+
+console.log(test);
 
 function App() {
   return (
